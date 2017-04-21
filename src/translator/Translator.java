@@ -1,8 +1,8 @@
-package tradutor;
+package translator;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Tradutor {
+public class Translator {
 
 	private Map<String, String> dicionario = new HashMap<>();
 
